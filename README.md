@@ -94,15 +94,6 @@ At the end of each session, if your score qualifies as a top 10 high score, you'
 
 ---
 
-## 🔮 Future Improvements (If Revisited)
-
-- Add sound effects with SDL or another audio library
-- Port to graphical interface (e.g., SFML or SDL)
-- Add achievements or challenge modes
-- Implement smoother rotations with Super Rotation System (SRS)
-
----
-
 ## 📜 Final Thoughts
 
 This project holds a special place in my learning journey. It was one of the **first real games I built in C++**, and it taught me not only how to code, but how to **think like a game developer**. From managing game loops to handling user input and polishing gameplay mechanics, every part of this was a hands-on learning experience.
